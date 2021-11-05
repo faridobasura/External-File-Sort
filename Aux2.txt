@@ -1,0 +1,3 @@
+Chucky,Lozano,25
+Diego,Crisantos,28
+Edgar,Tista,30

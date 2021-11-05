@@ -1,0 +1,5 @@
+Carlos,Rivas,19
+Cedric,Beuteslpacher,21
+Farid,Pozos,19
+Lucas,Cervantes,20
+Ricardo,Ruelas,20
